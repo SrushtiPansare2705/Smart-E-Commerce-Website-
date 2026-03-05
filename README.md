@@ -85,6 +85,6 @@ mvn spring-boot:run
 
 **Srushti Pansare**
 
-* Email: [[your-email@example.com](mailto:your-email@example.com)]
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+* Email: [srushtipansare859@gmail.com]
+* GitHub: [https://github.com/SrushtiPansare2705]
 
