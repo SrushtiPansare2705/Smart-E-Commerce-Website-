@@ -45,7 +45,7 @@ smart-ecommerce/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/smart-ecommerce.git
+git clone https://github.com/SrushtiPansare2705/Smart-E-Commerce-Website-.git
 cd smart-ecommerce
 ```
 
